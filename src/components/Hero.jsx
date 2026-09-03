@@ -104,6 +104,14 @@ export default function Hero() {
               Chiama la fioreria
             </a>
             <a
+              href="https://wa.me/393886026969?text=Ciao!%20Vorrei%20ordinare%20una%20consegna%20a%20domicilio."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-[#25D366] text-white px-7 py-3.5 rounded-full hover:brightness-95 transition-all text-[15px]"
+            >
+              Ordina su WhatsApp
+            </a>
+            <a
               href="#dove"
               className="border border-leaf/30 text-leafdark px-7 py-3.5 rounded-full hover:border-leaf transition-colors text-[15px]"
             >

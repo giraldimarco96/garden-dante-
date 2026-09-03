@@ -5,6 +5,7 @@ import Servizi from './components/Servizi';
 import Citazione from './components/Citazione';
 import Dove from './components/Dove';
 import Footer from './components/Footer';
+import WhatsAppButton from './components/WhatsAppButton';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
       <Citazione />
       <Dove />
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 }

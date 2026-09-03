@@ -32,7 +32,6 @@ export default function Footer() {
         </div>
 
         <p>© 2026 Fioreria Garden Dante — Via dell'Ippodromo 25, Padova</p>
-        <p>Sito realizzato da Marco Giraldi</p>
       </div>
     </footer>
   );
